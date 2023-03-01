@@ -1,3 +1,74 @@
 // Place all the styles related to the books controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
+
+.title {
+  padding: 20px 0 5px 20px;
+}
+
+.tbl1 {
+  // border-collapse: collapse;
+  table-layout: fixed;
+  padding: 0;
+  margin: 0 0 0 20px;
+}
+
+.tbl1 th,
+.tbl1 td {
+  padding-right: 10px;
+}
+
+.tbl1 a {
+  padding: 0 5px 0 0;
+}
+
+.new-title {
+  font-size: 16px;
+  padding: 5px 0 5px 20px;
+}
+
+.new-box {
+  margin: 0 0 0 20px;
+}
+
+.new-box p {
+  padding: 10px 0 0 0;
+}
+
+input {
+  font-size: 10px;
+  padding: 2px;
+}
+
+.btn {
+  padding: 10px 0 10px 0;
+}
+
+.tbl2 {
+  margin: 20px 0 0 40px;
+}
+.tbl2 th,
+.tbl2 td {
+  padding: 0 0 20px 0;
+}
+
+.link1 a {
+  padding: 0 5px 0 0;
+
+}
+
+.link1 a:first-child {
+  margin: 0 0 0 20px;
+  border-right: solid 1px black;
+}
+
+.title2 {
+  padding: 20px 20px 5px;
+}
+
+.text-box {
+  margin: 0 20px;
+}
+.link2 a {
+  padding: 0;
+}
